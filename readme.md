@@ -124,3 +124,8 @@ Use chai, mocha
 ## Stake Tokens 
 
 1:02:48
+
+stake tokens - deposit dai into the contract to earn rewards
+unstake tokens
+issuing tokens
+
