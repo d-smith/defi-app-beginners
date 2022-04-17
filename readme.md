@@ -125,7 +125,14 @@ Use chai, mocha
 
 1:02:48
 
+Where we're going...
+
 stake tokens - deposit dai into the contract to earn rewards
 unstake tokens
 issuing tokens
+
+## Issuing Tokens
+
+Deposit dai tokens into the farm, earn dapp tokens
+
 
